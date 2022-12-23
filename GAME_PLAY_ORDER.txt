@@ -15,6 +15,21 @@ Newly bought games may cut the line
 8. Death's Door || Steam
 9. Shining Resonance Refrain || Steam
 10. NieR Automata 100% || Steam
+11. The Last Remnant || Steam
+12. Just Shapes & Beats || Steam
+13. Lobotomy Corporation || Steam
+14. Nights of Azure || Steam
+15. Okami || Steam
+16. Zone of the Enders 100% || PS3
+17. Zone of the Enders 2 || PS3
+18. Atelier Marie + Elie || PS2
+19. Fairy Fencer F || Steam
+20. Lost Planet || Steam
+21. Lost Planet 2 || Steam
+22. Lost Planet 3 || Steam
+23. Resonance of Fate || Steam
+24. Lair || PS3
+25. I am Setsuna || Steam
 
 35MM || Steam
 Agarest: Generations of War || Steam
@@ -56,7 +71,6 @@ Dynasty Warriors 8 || Steam
 Edge of Eternity || Steam
 Eiyuden Chronicle: Rising || Steam
 Eternal Radiance || Steam
-Fairy Fencer F || Steam
 fault - milestone one || Steam
 fault - milestone two || Steam
 Final Fantasy XIII || Steam
@@ -76,15 +90,14 @@ Hyperdeviotion Noire: Goddess Black Heart || Steam
 Hyperdimension Neptunia Re;Birth1 || Steam
 Hyperdimension Neptunia Re;Birth2 || Steam
 Hyperdimension Neptunia Re;Birth3 || Steam
-I am Setsuna || Steam
 ICEY || Steam
+Icewind Dale || Steam
 Iesabel || Steam
+Indivisible || Steam
 Just Deserts || Steam
-Just Shapes & Beats || Steam
 KARAKARA || Steam
 KARAKARA2 || Steam
 Labyrinth of Refrain || Steam
-The Last Remnant || Steam
 Layers of Fear || Steam
 Legacy of Kain Defiance || Steam
 Legacy of Kain: Soul Reaver || Steam
@@ -96,10 +109,6 @@ LiEat || Steam
 Lightning Returns: Final Fantasy XIII || Steam
 Little Witch Academia: Chamber of Time || Steam
 Little Witch Nobeta || Steam
-Lobotomy Corporation || Steam
-Lost Planet || Steam
-Lost Planet 2 || Steam
-Lost Planet 3 || Steam
 Lost Ruins || Steam
 Machina of the Planet Tree || Steam
 Megadimension Neptunia VII || Steam
@@ -111,7 +120,7 @@ Moero Chronicle || Steam
 Momodora: Reverie Under the Moonlight || Steam
 Mordheim: City of the Damned || Steam
 Mugen Souls || Steam
-Muurdered: Soul Suspect || Steam
+Murdered: Soul Suspect || Steam
 Mysteria ~Occult Shadows~ || Steam
 Necropolis || Steam
 NEKO-NIN exHeart || Steam
@@ -119,9 +128,7 @@ NEKO-NIN exHeart +PLUS Nachi || Steam
 NEKO-NIN exHeart +PLUS Saiha || Steam
 Never Alone || Steam
 Ni no Kuni II: Revenant Kingdom || Steam
-Nights of Azure || Steam
 OddPlanet || Steam
-Okami || Steam
 Omega Quintet || Steam
 OMORI || Steam
 Ori and the Blind Forest || Steam
@@ -130,7 +137,6 @@ Phoenix Point || Steam
 Pillars of Eternity || Steam
 Raiders Sphere 4th || Steam
 Ray Gigant || Steam
-Resonance of Fate || Steam
 Risen || Steam
 Root Double || Steam
 Saku Saku: Love Blooms with Cherry Blossoms || Steam
@@ -139,7 +145,9 @@ Sakura Beach || Steam
 Sakura Beach 2 || Steam
 Sakura Dungeon || Steam
 Sakura Spirit || Steam
+Scarlet Nexus || Steam
 Seasons after Fall || Steam
+Solasta || Steam
 Star Ocean - The Last Hope || Steam
 Stranger of Sword City || Steam
 Subterrain || Steam
@@ -162,9 +170,11 @@ Vambrace: Cold Soul || Steam
 Vigil: The Longest Night || Steam
 WARSAW || Steam
 West of Loathing || Steam
+Wizard of Legend || Steam
 Wolf Trails || Steam
 Yakuza 0 || Steam
 Yakuza Kiwami || Steam
+Yakuza Kiwami 2 || Steam
 Zanki Zero: Last Beginning || Steam
 God's One Day World || Steam
 Legend of Grimrock || Steam
@@ -173,13 +183,10 @@ XCOM2 - Long War 2 || Steam
 Mugen Souls Z || PS3
 Steins;Gate || PS3
 Ni no Kuni || PS3
-Zone of the Enders 100% || PS3
-Zone of the Enders 2 || PS3
 Devil May Cry || PS3
 Devil May Cry 2 || PS3
 Devil May Cry 3 || PS3
 Drakengard 3 || PS3
-Armored Core Verdict Day || PS3
 Mighty No. 9 || PS3
 Final Fantasy X || PS3
 Final Fantasy X-2 || PS3
@@ -190,10 +197,6 @@ Shinobi || PS2
 .hack//Mutation || PS2
 .hack//Outbreak || PS2
 .hack//Quarantine || PS2
-Armored Core 4 || PS3
-Armored Core For Answer || PS3
-Armored Core 5 || PS3
-Lair || PS3
 Eternal Sonata || PS3
 Ar Tonelico || PS2
 Ar Tonelico 2 || PS2
@@ -202,7 +205,21 @@ King's Bounty: The Legend || PC
 King's Bounty: Armored Princess || PC
 Dungeon Siege II || PC
 Dark Messiah of Might and Magic || PC
-
+Armored Core Replay || PSX
+Armored Core: Project Phantasma Replay || PSX
+Armored Core: Master of Arena Replay || PSX
+Armored Core 2 Replay || PS2
+Armored Core 2: Another Age Replay || PS2
+Armored Core 3 Replay || PS2
+Silent Line: Amored Core Replay || PS2
+Armored Core Nexus Replay || PS2
+Armored Core: Nine Breaker Replay || PS2
+Armored COre: Last Raven Replay || PS2
+Armored Core 4 || PS3
+Armored Core For Answer || PS3
+Armored Core 5 || PS3
+Armored Core Verdict Day || PS3
+Taiko no Tatsujin Rhythmic Adventure Pack || NS
 
 Game Order in transit
 ===============================
@@ -216,46 +233,48 @@ Game Order in transit
 8. 13 Sentinels: Aegis Rim || NS
 9. Digimon Story Cyber Sleuth 100% || PSV
 10. Digimon Story Hacker's Memory || PSV
+11. The Lost Child || PSV
+12. Odin Sphere Leifthrasir || PSV
+13. Fate/Extella 100% || PSV
+14. Digimon World -Next Order- 100% || PSV
+15. Ar Nosurge || PSV
+16. Operation Abyss || PSV
+17. Muramasa Rebirth || PSV
+18. Suikoden Tierkreis || NDS
+19. Dragon Marked For Death || NS
+20. Iconoclasts || PSV
+21. Monster Hunter Stories || Android
+22. Pokemon Conquest || NDS
+23. Radiant Historia || NDS
+24. Caligula Effect Overdose || NS
+25. Oreshika || PSV
 
-Caligula Effect Overdose || NS
 World of Final Fantasy || NS
 Alliance Alive || NS
 Oninaki || NS
 Fallen Legion: Rise to Glory || NS
 God Wars || NS
-Dragon Marked For Death || NS
 Xenoblade Chronicles || NS
 Astebreed || NS
 Märchen Forest || NS
-Odin Sphere Leifthrasir || PSV
-Fate/Extella 100% || PSV
+Mary Skelter Finale || NS
+Fallen Legion Revenants || NS
 Killzone Mercenary || PSV
-Ar Nosurge || PSV
-Digimon World -Next Order- 100% || PSV
 Grand Kingdom || PSV
 Demon Gaze || PSV
 Dungeon Travelers 2 || PSV
-The Lost Child || PSV
-Operation Abyss || PSV
-Muramasa Rebirth || PSV
 Soul Sacrifice Delta || PSV
-Oreshika || PSV
 Gravity Rush || PSV
 Claire || PSV
 Yomawari || PSV
 The Firefly Diary || PSV
 Psycho Pass || PSV
-Ironoclasts || PSV
 Exile's End || PSV
-Monster Hunter Stories || Android
 Witch Spring 2 || Android
 Shin Megami Tensei: Devil Survivor || NDS
 Shin Megami Tensei: Devil Survivor 2 || NDS
 Shin Megami Tensei: Strange Journey || NDS
-Suikoden Tierkreis || NDS
-Radiant Historia || NDS
 Digimon World: Dusk || NDS
-Pokemon Conquest || NDS
 Xenogears || PSX
 Lord of Arcana || PSP
 Final Fantasy Tactics: War of the Lions || PSP
