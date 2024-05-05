@@ -1,35 +1,33 @@
 Game Order at home
 ===============================
 FFXIV comes in whenever I feel like
-Eiyuden Chronicle: Hundred Heroes becomes #1 whenever it releases
-Eiyuden Chronicle: Rising starts a month before that
 Newly bought games may cut the line
 ===============================
 1. Soul Hackers 2 || Steam
-2. Crystar || Steam
-3. Blue Reflection Tie || Steam
-4. Ender Lilies || Steam
-5. Persona 5 || PS3
-6. Virgo Versus the Zodiac || Steam
-7. Code Vein || Steam
-8. Death's Door || Steam
-9. Shining Resonance Refrain || Steam
-10. NieR Automata 100% || Steam
-11. The Last Remnant || Steam
-12. Just Shapes & Beats || Steam
-13. Lobotomy Corporation || Steam
-14. Nights of Azure || Steam
-15. Okami || Steam
-16. Zone of the Enders 100% || PS3
-17. Zone of the Enders 2 || PS3
-18. Atelier Marie + Elie || PS2
-19. Fairy Fencer F || Steam
-20. Lost Planet || Steam
-21. Lost Planet 2 || Steam
-22. Lost Planet 3 || Steam
-23. Resonance of Fate || Steam
-24. Lair || PS3
-25. I am Setsuna || Steam
+2. Eiyuden Chronicle Rising || Steam
+3. Eiyuden Chronicle: Hundred Heroes || Steam
+4. Crystar || Steam
+5. Blue Reflection Tie || Steam
+6. Ender Lilies || Steam
+7. Persona 5 || PS3
+8. Virgo Versus the Zodiac || Steam
+9. Code Vein || Steam
+10. Death's Door || Steam
+11. Shining Resonance Refrain || Steam
+12. NieR Automata 100% || Steam
+13. The Last Remnant || Steam
+14. Just Shapes & Beats || Steam
+15. Lobotomy Corporation || Steam
+16. Nights of Azure || Steam
+17. Okami || Steam
+18. Zone of the Enders 100% || PS3
+19. Zone of the Enders 2 || PS3
+20. Atelier Marie + Elie || PS2
+21. Fairy Fencer F || Steam
+22. Lost Planet || Steam
+23. Lost Planet 2 || Steam
+24. Lost Planet 3 || Steam
+25. Resonance of Fate || Steam
 
 35MM || Steam
 Agarest: Generations of War || Steam
@@ -69,7 +67,6 @@ Dragon's Dogma: Dark Arisen || Steam
 Dual Gear || Steam
 Dynasty Warriors 8 || Steam
 Edge of Eternity || Steam
-Eiyuden Chronicle: Rising || Steam
 Eternal Radiance || Steam
 fault - milestone one || Steam
 fault - milestone two || Steam
@@ -227,8 +224,8 @@ Game Order in transit
 2. Octopath Traveler || NS
 3. Monark || NS
 4. Mary Skelter 2 || NS
-5. Pokemon Shield DLC || NS
-6. Shin Megami Tensei V - Demi-Fiend DLC || NS
+5. Mary Skelter Finale || NS
+6. Pokemon Shield DLC || NS
 7. Daemon X Machina || NS
 8. 13 Sentinels: Aegis Rim || NS
 9. Digimon Story Cyber Sleuth 100% || PSV
